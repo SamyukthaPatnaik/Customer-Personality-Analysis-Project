@@ -1,7 +1,9 @@
 # Customer-Personality-Analysis-Project
 
-A customer personality study involves examining the ideal client profiles of a company.
+- Designed & developed a model in order to help companies identify their target market to better serve their customers.
+- It Includes: Data understanding, collection, cleaning, pre-processing, testing, analysis, model building and visualizations
+in python.
+- Deployed using streamlit where a company can have a complete insights/analysis of each customer.
+- Performs clustering to summarize customer segments & used various machine learning algorithms such as Support
+Vector Machine (SVM), k-Nearest Neighbors (KNN), Random Forest.
 
-This can help companies better understand who their target market is and how to best serve them. 
-
-By better understanding its customers, a company is able to adapt its products more easily to meet the individual needs of each individual customer
