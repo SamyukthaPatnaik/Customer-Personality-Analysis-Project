@@ -248,10 +248,12 @@ if menu:
     if __name__ == '__main__':
         main ()
 
+# About page 
 about = 'http://localhost:8502'
 if st.sidebar.button ('About System'):
     webbrowser.open_new_tab ( about )
 
+# Dataset page 
 Dataset = 'http://localhost:8503'
 if st.sidebar.button ("Dataset"):
     webbrowser.open_new_tab ( Dataset )
