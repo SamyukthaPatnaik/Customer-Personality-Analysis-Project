@@ -26,3 +26,4 @@ To deploy this project run
 ![Streamlit](https://user-images.githubusercontent.com/92504503/188385699-18dc666e-2785-4146-9998-1ae546003bf5.png)
 
 **This GUI was built using** [Streamlit](https://docs.streamlit.io/streamlit-cloud/get-started) 👈
+
