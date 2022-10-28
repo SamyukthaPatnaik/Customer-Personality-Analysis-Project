@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis-Project
+# Customer Personality Analysis Project
 
 - Designed & developed a model in order to help companies identify their target market to better serve their customers.
 - It Includes: Data understanding, collection, cleaning, pre-processing, testing, analysis, model building and visualizations
