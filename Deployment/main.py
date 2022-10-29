@@ -43,6 +43,7 @@ if menu:
             Living_With = 1
 
         # *****************************************#
+        
         if Incomes == "Below 25000":
             Incomes = 0
 
