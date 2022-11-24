@@ -260,3 +260,4 @@ if st.sidebar.button ("Dataset"):
     webbrowser.open_new_tab ( Dataset )
 
 
+#Run this file as *streamlit run main.py* in the compiler 
