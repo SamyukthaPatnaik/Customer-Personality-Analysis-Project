@@ -6,7 +6,7 @@ in python.
 - Deployed using streamlit where a company can have a complete insights/analysis of each customer.
 - Performs clustering to summarize customer segments & used various machine learning algorithms such as Support
 Vector Machine (SVM), k-Nearest Neighbors (KNN), Random Forest.
-- Developer Tools/ IDE's- Pycharm, Jupyter Notebook
+- Developer Tools/ IDE's- Pycharm, Jupyter Notebook.
 
 &nbsp;
 
